@@ -1,0 +1,55 @@
+
+body {
+  background-color: rgb(59, 89, 152);
+  color: white;
+}
+
+button {
+  color: rgb(59, 89, 152);
+}
+
+h1 {
+  text-align: center;
+}
+
+Image {
+  max-height: 50px;
+}
+
+li {
+  border: solid 1px rgb(59, 89, 152);
+  margin: 1em;
+  width: 40%;
+  max-height: 20%;
+  display: inline-block;
+  padding: 1em;
+  font-size: 1em;
+}
+
+li button {
+  float: right;
+}
+
+li div {
+  display: inline-block;
+}
+
+p {
+  display: block;
+  text-align: left;
+}
+
+ul {
+  background-color: white;
+  color: rgb(59, 89, 152);
+  list-style: none;
+}
+
+.profPic {
+  max-height: 10em;
+  display: inline-block;
+}
+
+#list {
+  margin-top: 2em;
+}
